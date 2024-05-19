@@ -1,0 +1,22 @@
+[
+  {
+    "post": ["Yesterday's day spent with friends was amazing! 🎉 #friends #fun"],
+    "emotions": ["happy", "excited"],
+    "date": "2024-05-18"
+  },
+  {
+    "post": ["New episode of my favorite TV series! 📺 Can't wait to watch it! #tvseries #excited"],
+    "emotions": ["excited"],
+    "date": "2024-05-17"
+  },
+  {
+    "post":  ["Today's morning started off rainy, but coffee did its magic ☕️ #coffee #morning"],
+    "emotions": ["content", "relaxed"],
+    "date": "2024-05-16"
+  },
+  {
+    "post": ["Tough day at work, but managed to finish the project! 💼 #work #accomplished"],
+    "emotions": ["accomplished", "tired"],
+    "date": "2024-05-15"
+  }
+]
